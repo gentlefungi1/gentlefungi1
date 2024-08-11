@@ -1,7 +1,7 @@
 <!-- Introduction -->
 
 <h1 align="center">Hi 👋, I'm Kelvin Okereafor</h1>
-<h3 align="center">A passionate Software Enginner from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 
 📚 Studied Computer Science at the National Open University of Nigeria.<br />
